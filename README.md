@@ -1,4 +1,4 @@
-### Hi 👋 I'm Elaine Fan
+### Hi 👋 I'm Elaine Fan <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" />
 I have a background as an occupational therapist and early childhood teacher.	
 My web development journey began in 2023. The explorations of programming made me realize I want to devote myself to this field wholeheartedly.
 - 👯 I'm currently working on projects with wonderful people. 
