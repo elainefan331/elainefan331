@@ -3,6 +3,7 @@ I have a background as an occupational therapist and early childhood teacher.
 My programming journey began with self-directed learning through various online resources. These explorations made me realize I want to devote myself to this field wholeheartedly.
 - 👯 I'm currently working on projects with wonderful people. 
 - 🤔 I'm interested in expanding product features to enhance the user experience. An intuitive interface is what I value most.
+- ⚡ Fun fact: I like to hike, ski, travel and watch sports games. I'm a big fan of tennis for over 20 years!
 
 ### Tools I use 🔧
 <div align="center">
@@ -21,9 +22,8 @@ My programming journey began with self-directed learning through various online 
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-
 </div>
+📫 Contact Me elainefan331@gmail.com
 
 <!--
 **elainefan331/elainefan331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
