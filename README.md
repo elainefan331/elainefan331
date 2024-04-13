@@ -1,9 +1,9 @@
 ### Hi 👋 I'm Elaine Fan
 I have a background as an occupational therapist and early childhood teacher.	
 My programming journey began with self-directed learning through various online resources. These explorations made me realize I want to devote myself to this field wholeheartedly.
-👯 I'm currently working on projects with wonderful people. 
-🤔 I'm interested in expanding product features to enhance the user experience. An intuitive interface is what I value most.
-⚡  Fun fact: I like to hike, ski, travel and watch sports games. I'm a big fan of tennis for over 20 years!
+- 👯 I'm currently working on projects with wonderful people. 
+- 🤔 I'm interested in expanding product features to enhance the user experience. An intuitive interface is what I value most.
+- ⚡  Fun fact: I like to hike, ski, travel and watch sports games. I'm a big fan of tennis for over 20 years!
 
 ### Tools I use 🔧
 <div align="center">
@@ -25,7 +25,7 @@ My programming journey began with self-directed learning through various online 
 </div>
 
 
-📫 Contact Me elainefan331@gmail.com
+#### 📫 Contact Me elainefan331@gmail.com
 
 <!--
 **elainefan331/elainefan331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
