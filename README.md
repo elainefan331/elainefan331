@@ -28,10 +28,10 @@ My web development journey began in 2023. The explorations of programming made m
 
 #### 📫 Contact Me elainefan331@gmail.com <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Woman%20Technologist.webp" alt="Woman Technologist" width="35" height="35" />
 
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50">
 
 <!--
 **elainefan331/elainefan331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50">
 
 Here are some ideas to get you started:
 
