@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Elaine Fan
 I have a background as an occupational therapist and early childhood teacher.	
-My programming journey began with self-directed learning through various online resources. These explorations made me realize I want to devote myself to this field wholeheartedly.
+My web development journey began in 2023. The explorations of programming made me realize I want to devote myself to this field wholeheartedly.
 - 👯 I'm currently working on projects with wonderful people. 
 - 🤔 I'm interested in expanding product features to enhance the user experience. An intuitive interface is what I value most.
 - ⚡  Fun fact: I like to hike, ski, travel and watch sports games. I'm a big fan of tennis for over 20 years!
