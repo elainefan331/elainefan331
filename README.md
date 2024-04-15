@@ -28,8 +28,10 @@ My web development journey began in 2023. The explorations of programming made m
 
 
 #### 📫 Contact Me  
-<img width="50" src="https://skillicons.dev/icons?i=linkedin" />
-<img width="50" src="https://skillicons.dev/icons?i=gmail" /> elainefan331@gmail.com<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Woman%20Technologist.webp" alt="Woman Technologist" width="35" height="35" />
+<img width="40" src="https://skillicons.dev/icons?i=linkedin" />
+<img width="40" src="https://skillicons.dev/icons?i=gmail" /> elainefan331@gmail.com<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Woman%20Technologist.webp" alt="Woman Technologist" width="35" height="35" />
+<img src="https://skillicons.dev/icons?i=gmail" width="40" /> elainefan331@gmail.com <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Woman%20Technologist.webp" alt="Woman Technologist" width="35" height="35" />
+
 
 
 <!--
