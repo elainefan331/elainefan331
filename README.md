@@ -28,7 +28,7 @@ My web development journey began in 2023. The explorations of programming made m
 
 
 #### 📫 Contact Me  
-[<img width="30" src="https://skillicons.dev/icons?i=linkedin" />] (https://www.linkedin.com/in/tzu-yun-fan-4b1b06291/?locale=en_US)
+[Linkdin] (https://www.linkedin.com/in/tzu-yun-fan-4b1b06291/?locale=en_US)<img width="30" src="https://skillicons.dev/icons?i=linkedin" />
 
 <p align="start">
 	<img width="30" src="https://skillicons.dev/icons?i=gmail" /> <span style="vertical-align: middle">elainefan331@gmail.com</span> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Woman%20Technologist.webp" alt="Woman Technologist" width="35" height="35" />	
