@@ -3,7 +3,7 @@ I have a background as an occupational therapist and early childhood teacher.
 My web development journey began in 2023. The explorations of programming made me realize I want to devote myself to this field wholeheartedly.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="25" height="25" /> I'm currently working on projects with wonderful people. 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Light%20Bulb.webp" alt="Light Bulb" width="25" height="25" /> I'm interested in expanding product features to enhance the user experience. An intuitive interface is what I value most.
-- ⚡  Fun fact: I like to hike, ski, travel and watch sports games. I'm a big fan of tennis for over 20 years!
+- ⚡   Fun fact: I like to hike, ski, travel and watch sports games. I'm a big fan of tennis for over 20 years!
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Tools I use 
 <div align="center">
@@ -22,7 +22,7 @@ My web development journey began in 2023. The explorations of programming made m
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
-	<img width="50" src="https://skillicons.dev/icons?i=sequelize" />
+	<img width="50" src="https://skillicons.dev/icons?i=sequelize,figma&theme=light" />
 </div>
 
 
