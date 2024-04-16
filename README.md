@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://live.staticflickr.com/65535/53658222072_4d8f6ca134_c.jpg"  width="250", height="250"/>	
+</div>
+
+
 ### Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /> I'm Elaine Fan 
 I have a background as an occupational therapist and early childhood teacher.	
 My web development journey began in 2023. The explorations of programming made me realize I want to devote myself to this field wholeheartedly.
