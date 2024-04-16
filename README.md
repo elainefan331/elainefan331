@@ -3,7 +3,7 @@ I have a background as an occupational therapist and early childhood teacher.
 My web development journey began in 2023. The explorations of programming made me realize I want to devote myself to this field wholeheartedly.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="25" height="25" /> I'm currently working on projects with wonderful people. 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Light%20Bulb.webp" alt="Light Bulb" width="25" height="25" /> I'm interested in expanding product features to enhance the user experience. An intuitive interface is what I value most.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> Fun fact: I like to hike, ski, travel and watch sports games. I'm a big fan of tennis for over 20 years!
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> Fun fact: I like to hike, ski, travel and watch sports games. I'm a big fan of tennis <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Tennis.png" alt="Tennis" width="25" height="25" /> for over 20 years!
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Tools I use 
 <div align="center">
