@@ -5,6 +5,7 @@
 
 ### Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /> I'm Elaine Fan 
 #### see my <a href="https://elainefan331.github.io/">portfolio</a>
+#### see my <a href=https://drive.google.com/file/d/1gt-F4qRT4obOnK81OAEz_-HylKgELmae/view?usp=sharing">resume</a>
 I have a background of occupational therapy and early childhood education.	
 This foundation honed my ability to solve problems creatively and embrace new challenges — a skill set I bring to my current role in software engineering.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="25" height="25" /> I'm currently working on projects with wonderful people. 
