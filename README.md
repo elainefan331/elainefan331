@@ -3,7 +3,7 @@
 </div>
 
 
-### Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /> I'm Elaine Fan 
+### HiHiHi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /> I'm Elaine Fan 
 #### see my <a href="https://elainefan331.github.io/">portfolio</a>
 I have a background of occupational therapy and early childhood education.	
 This foundation honed my ability to solve problems creatively and embrace new challenges — a skill set I bring to my current role in software engineering.
