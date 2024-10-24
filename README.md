@@ -6,7 +6,7 @@
 ### Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /> I'm Elaine Fan 
 #### see my <a href="https://elainefan331.github.io/">portfolio</a>
 I have a diverse background that spans both healthcare and software engineering, which has honed my ability to solve problems creatively and embrace new challenges.	
-This foundation honed my ability to solve problems creatively and embrace new challenges — a skill set I bring to my current role in software engineering.
+My goal is to leverage this expertise to make meaningful contributions by developing innovative solutions that address real-world challenges, combining my clinical knowledge with technical skills to drive impactful outcomes.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="25" height="25" /> I'm currently working on projects with wonderful people. 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Light%20Bulb.webp" alt="Light Bulb" width="25" height="25" /> I'm interested in expanding product features to enhance the user experience. An intuitive interface is what I value most.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> Fun fact: I like to hike, ski, travel and watch sports games. I'm a big fan of tennis <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Tennis.png" alt="Tennis" width="25" height="25" /> for over 20 years!
