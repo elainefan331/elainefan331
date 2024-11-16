@@ -36,7 +36,7 @@ My goal is to leverage this expertise to make meaningful contributions by develo
 
 
 
-#### 📫 Contact Me - 📫 How to reach me: ... 
+#### 📫 Contact Me 
 [<img width="30" src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/tzu-yun-fan-4b1b06291/?locale=en_US)
 
 <p align="start">
