@@ -4,6 +4,7 @@
 
 
 ### Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /> I'm Elaine Fan 
+
 #### see my <a href="https://elainefan331.github.io/">portfolio</a>
 I have a diverse background that spans both healthcare and software engineering, which has honed my ability to solve problems creatively and embrace new challenges.	
 My goal is to leverage this expertise to make meaningful contributions by developing innovative solutions that address real-world challenges, combining my clinical knowledge with technical skills to drive impactful outcomes.
@@ -35,7 +36,7 @@ My goal is to leverage this expertise to make meaningful contributions by develo
 
 
 
-#### 📫 Contact Me  
+#### 📫 Contact Me - 📫 How to reach me: ... 
 [<img width="30" src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/tzu-yun-fan-4b1b06291/?locale=en_US)
 
 <p align="start">
