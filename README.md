@@ -5,7 +5,7 @@
 
 ### Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /> I'm Elaine Fan
 
-#### see my <a href="https://elainefan331.github.io/">portfolio</a>
+#### see myy <a href="https://elainefan331.github.io/">portfolio</a>
 I have a diverse background that spans both healthcare and software engineering, which has honed my ability to solve problems creatively and embrace new challenges.	
 My goal is to leverage this expertise to make meaningful contributions by developing innovative solutions that address real-world challenges, combining my clinical knowledge with technical skills to drive impactful outcomes.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="25" height="25" /> I'm currently working on projects with wonderful people. 
